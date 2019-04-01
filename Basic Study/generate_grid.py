@@ -24,7 +24,7 @@ minimum = get_int('minimum(or Enter for 0):', -1000000, 0)
 default = 10000
 if default < minimum:
     default = 2 * minimum
-maximum = get_int('maximum(or Enter for' + str(default) + '):', minimum, default)
+maximum = get_int('maximum(or Enter for' + str(default) + ' ):', minimum, default)
 
 row = 0
 while row < rows:
