@@ -11,19 +11,55 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter 3 Action List/foods.py">
+        <entry file="file://$PROJECT_DIR$/chapter 4 if/cars.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="95">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter 4 if/toppings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter 3 Action List/dimensions.py">
+        <entry file="file://$PROJECT_DIR$/chapter 4 if/new_toppings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter 4 if/banned_users.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter 4 if/voting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter 4 if/amusement_park.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -56,6 +92,12 @@
         <option value="$PROJECT_DIR$/chapter 3 Action List/players.py" />
         <option value="$PROJECT_DIR$/chapter 3 Action List/foods.py" />
         <option value="$PROJECT_DIR$/chapter 3 Action List/dimensions.py" />
+        <option value="$PROJECT_DIR$/chapter 4 if/cars.py" />
+        <option value="$PROJECT_DIR$/chapter 4 if/banned_users.py" />
+        <option value="$PROJECT_DIR$/chapter 4 if/voting.py" />
+        <option value="$PROJECT_DIR$/chapter 4 if/amusement_park.py" />
+        <option value="$PROJECT_DIR$/chapter 4 if/toppings.py" />
+        <option value="$PROJECT_DIR$/chapter 4 if/new_toppings.py" />
       </list>
     </option>
   </component>
@@ -77,6 +119,11 @@
             <path>
               <item name="Part 1 Basic Knowledge" type="b2602c69:ProjectViewProjectNode" />
               <item name="Part 1 Basic Knowledge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Part 1 Basic Knowledge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Part 1 Basic Knowledge" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter 4 if" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -109,8 +156,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dimensions">
-    <configuration name="dimensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.new_toppings">
+    <configuration name="amusement_park" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Part 1 Basic Knowledge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,12 +165,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 3 Action List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 4 if" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 3 Action List/dimensions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 4 if/amusement_park.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +179,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="foods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="banned_users" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Part 1 Basic Knowledge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,12 +187,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 3 Action List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 4 if" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 3 Action List/foods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 4 if/banned_users.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="players" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="new_toppings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Part 1 Basic Knowledge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,12 +209,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 3 Action List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 4 if" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 3 Action List/players.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 4 if/new_toppings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +223,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice_4_3-9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="toppings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Part 1 Basic Knowledge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,12 +231,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 3 Action List/practice_action_list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 4 if" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 3 Action List/practice_action_list/practice_4_3-9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 4 if/toppings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +245,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="squares" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="voting" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Part 1 Basic Knowledge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,12 +253,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 3 Action List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 4 if" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 3 Action List/squares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 4 if/voting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,11 +269,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dimensions" />
-        <item itemvalue="Python.foods" />
-        <item itemvalue="Python.players" />
-        <item itemvalue="Python.practice_4_3-9" />
-        <item itemvalue="Python.squares" />
+        <item itemvalue="Python.new_toppings" />
+        <item itemvalue="Python.amusement_park" />
+        <item itemvalue="Python.voting" />
+        <item itemvalue="Python.banned_users" />
+        <item itemvalue="Python.toppings" />
       </list>
     </recent_temporary>
   </component>
@@ -240,18 +287,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554201540954</updated>
-      <workItem from="1554201542218" duration="4786000" />
+      <workItem from="1554201542218" duration="7237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4786000" />
+    <option name="totallyTimeSpent" value="7237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="156" y="24" width="1400" height="820" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -261,7 +309,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32896653" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -277,15 +325,20 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$even_numbers.coverage" NAME="even_numbers Coverage Results" MODIFIED="1554207029180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 3 Action List" />
     <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$dimensions.coverage" NAME="dimensions Coverage Results" MODIFIED="1554209357894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 3 Action List" />
-    <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$practice_8_9_10.coverage" NAME="practice_8&amp;9&amp;10 Coverage Results" MODIFIED="1554202508879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 2 List introduction/practice" />
+    <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$voting.coverage" NAME="voting Coverage Results" MODIFIED="1554209842718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 4 if" />
     <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$practice_4_3_9.coverage" NAME="practice_4_3-9 Coverage Results" MODIFIED="1554208479925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 3 Action List/practice_action_list" />
     <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$numbers.coverage" NAME="numbers Coverage Results" MODIFIED="1554206996865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 3 Action List" />
-    <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$cars.coverage" NAME="cars Coverage Results" MODIFIED="1554202428977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 2 List introduction" />
+    <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$toppings.coverage" NAME="toppings Coverage Results" MODIFIED="1554209630339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 4 if" />
+    <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$players.coverage" NAME="players Coverage Results" MODIFIED="1554209087613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 3 Action List" />
+    <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$even_numbers.coverage" NAME="even_numbers Coverage Results" MODIFIED="1554207029180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 3 Action List" />
+    <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$banned_users.coverage" NAME="banned_users Coverage Results" MODIFIED="1554209703003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 4 if" />
+    <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$practice_8_9_10.coverage" NAME="practice_8&amp;9&amp;10 Coverage Results" MODIFIED="1554202508879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 2 List introduction/practice" />
+    <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$cars.coverage" NAME="cars Coverage Results" MODIFIED="1554209547288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 4 if" />
+    <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$new_toppings.coverage" NAME="new_toppings Coverage Results" MODIFIED="1554211810363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 4 if" />
+    <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$amusement_park.coverage" NAME="amusement_park Coverage Results" MODIFIED="1554211166034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 4 if" />
     <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$squares.coverage" NAME="squares Coverage Results" MODIFIED="1554207230171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 3 Action List" />
     <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$practice_4_1_2.coverage" NAME="practice_4_1&amp;2 Coverage Results" MODIFIED="1554206917995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 3 Action List/practice_action_list" />
-    <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$players.coverage" NAME="players Coverage Results" MODIFIED="1554209087613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 3 Action List" />
     <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$foods.coverage" NAME="foods Coverage Results" MODIFIED="1554209094256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 3 Action List" />
     <SUITE FILE_PATH="coverage/Part_1_Basic_Knowledge$magicians.coverage" NAME="magicians Coverage Results" MODIFIED="1554206664095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 3 Action List" />
   </component>
@@ -371,8 +424,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter 3 Action List/dimensions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 4 if/cars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 4 if/banned_users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 4 if/voting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 4 if/amusement_park.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 4 if/toppings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 4 if/new_toppings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
