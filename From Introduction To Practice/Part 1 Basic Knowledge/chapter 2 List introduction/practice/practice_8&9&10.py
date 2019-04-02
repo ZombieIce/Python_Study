@@ -1,0 +1,13 @@
+holiday_place = ['Bali', 'Tokyo', 'Green', 'Tibet', 'LA']
+print(holiday_place)
+print(sorted(holiday_place))
+print(sorted(holiday_place, reverse=True))
+holiday_place.reverse()
+print(holiday_place)
+holiday_place.reverse()
+print(holiday_place)
+holiday_place.sort()
+print(holiday_place)
+holiday_place.sort(reverse=True)
+print(holiday_place)
+print(len(holiday_place))
