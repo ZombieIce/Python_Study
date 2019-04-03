@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d995866-d8de-45ec-8c9d-c97ae0f4e65b" name="Default Changelist" comment="" />
+    <list default="true" id="2d995866-d8de-45ec-8c9d-c97ae0f4e65b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter 4 if/practice/5_10_check_username.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 4 if/practice/5_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 4 if/practice/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5 dictionary/alien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5 dictionary/aliens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5 dictionary/favorite_languages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5 dictionary/many_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5 dictionary/pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter 5 dictionary/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Part 1 Basic Knowledge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Part 1 Basic Knowledge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,57 +23,57 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter 4 if/cars.py">
+        <entry file="file://$PROJECT_DIR$/chapter 5 dictionary/alien.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            <state relative-caret-position="330">
+              <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter 4 if/toppings.py">
+        <entry file="file://$PROJECT_DIR$/chapter 5 dictionary/favorite_languages.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="337">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter 4 if/new_toppings.py">
+        <entry file="file://$PROJECT_DIR$/chapter 5 dictionary/many_users.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="150">
+              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter 4 if/banned_users.py">
+        <entry file="file://$PROJECT_DIR$/chapter 5 dictionary/aliens.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter 4 if/voting.py">
+        <entry file="file://$PROJECT_DIR$/chapter 5 dictionary/pizza.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+            <state relative-caret-position="135">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter 4 if/amusement_park.py">
+        <entry file="file://$PROJECT_DIR$/chapter 5 dictionary/user.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+            <state relative-caret-position="120">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -98,14 +112,20 @@
         <option value="$PROJECT_DIR$/chapter 4 if/amusement_park.py" />
         <option value="$PROJECT_DIR$/chapter 4 if/toppings.py" />
         <option value="$PROJECT_DIR$/chapter 4 if/new_toppings.py" />
+        <option value="$PROJECT_DIR$/chapter 5 dictionary/alien.py" />
+        <option value="$PROJECT_DIR$/chapter 5 dictionary/user.py" />
+        <option value="$PROJECT_DIR$/chapter 5 dictionary/aliens.py" />
+        <option value="$PROJECT_DIR$/chapter 5 dictionary/pizza.py" />
+        <option value="$PROJECT_DIR$/chapter 5 dictionary/favorite_languages.py" />
+        <option value="$PROJECT_DIR$/chapter 5 dictionary/many_users.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="156" />
-    <option name="y" value="24" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
+    <option name="x" value="628" />
+    <option name="y" value="23" />
+    <option name="width" value="652" />
+    <option name="height" value="746" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -113,6 +133,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,21 +144,21 @@
             <path>
               <item name="Part 1 Basic Knowledge" type="b2602c69:ProjectViewProjectNode" />
               <item name="Part 1 Basic Knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 4 if" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter 5 dictionary" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter 2 List introduction" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -156,8 +177,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.new_toppings">
-    <configuration name="amusement_park" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.many_users">
+    <configuration name="aliens" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Part 1 Basic Knowledge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,12 +186,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 4 if" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 5 dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 4 if/amusement_park.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 5 dictionary/aliens.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +199,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="banned_users" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="favorite_languages" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Part 1 Basic Knowledge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,12 +207,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 4 if" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 5 dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 4 if/banned_users.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 5 dictionary/favorite_languages.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="new_toppings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="many_users" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Part 1 Basic Knowledge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,12 +228,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 4 if" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 5 dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 4 if/new_toppings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 5 dictionary/many_users.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="toppings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pizza" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Part 1 Basic Knowledge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,12 +249,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 4 if" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 5 dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 4 if/toppings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 5 dictionary/pizza.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="voting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="user" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Part 1 Basic Knowledge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,12 +270,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 4 if" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 5 dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 4 if/voting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 5 dictionary/user.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.new_toppings" />
-        <item itemvalue="Python.amusement_park" />
-        <item itemvalue="Python.voting" />
-        <item itemvalue="Python.banned_users" />
-        <item itemvalue="Python.toppings" />
+        <item itemvalue="Python.many_users" />
+        <item itemvalue="Python.favorite_languages" />
+        <item itemvalue="Python.pizza" />
+        <item itemvalue="Python.aliens" />
+        <item itemvalue="Python.user" />
       </list>
     </recent_temporary>
   </component>
@@ -295,30 +311,30 @@
     <option name="totallyTimeSpent" value="7237000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="156" y="24" width="1400" height="820" extended-state="0" />
+    <frame x="628" y="23" width="652" height="746" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27099842" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32896653" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36697248" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,9 +376,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter 3 Action List/practice_action_list/pizza.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 3 Action List/practice_action_list/pizza.py" />
     <entry file="file://$PROJECT_DIR$/chapter 3 Action List/practice_action_list/practice_4_1&amp;2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -391,9 +405,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter 3 Action List/practice_action_list/practice_4_3-0.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 3 Action List/practice_action_list/practice_4_3-0.py" />
     <entry file="file://$PROJECT_DIR$/chapter 3 Action List/squares.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -431,43 +443,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter 4 if/cars.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="75">
           <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter 4 if/banned_users.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter 4 if/voting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter 4 if/amusement_park.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter 4 if/toppings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter 4 if/new_toppings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="150">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 4 if/banned_users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 4 if/voting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 4 if/amusement_park.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 5 dictionary/alien.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 5 dictionary/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 5 dictionary/aliens.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 5 dictionary/pizza.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 5 dictionary/favorite_languages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 5 dictionary/many_users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
         </state>
       </provider>
     </entry>
