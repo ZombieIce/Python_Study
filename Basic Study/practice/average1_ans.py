@@ -13,5 +13,7 @@ while True:
         break
 
 print('numbers:', numbers)
-print('count = ', len(numbers), 'sum = ', sum(numbers), 'lowest = ', min(numbers), 'highest = ', max(numbers), 'mean = ', sum(numbers) / len(numbers))
+print('count = ', len(numbers), 'sum = ', sum(numbers),
+      'lowest = ', min(numbers), 'highest = ', max(numbers),
+      'mean = ', sum(numbers) / len(numbers))
 
