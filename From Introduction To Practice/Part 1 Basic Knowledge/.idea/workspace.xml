@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d995866-d8de-45ec-8c9d-c97ae0f4e65b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter 10 test code/employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 10 test code/language_survey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 10 test code/name_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 10 test code/names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 10 test code/survey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 10 test code/test_employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 10 test code/test_name_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 10 test code/test_survey.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2d995866-d8de-45ec-8c9d-c97ae0f4e65b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +162,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -180,15 +170,6 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="Part 1 Basic Knowledge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Part 1 Basic Knowledge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Part 1 Basic Knowledge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Part 1 Basic Knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 10 test code" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="Part 1 Basic Knowledge" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -361,14 +342,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19142176" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19142176" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40684932" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40684932" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
